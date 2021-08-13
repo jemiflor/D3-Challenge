@@ -9,11 +9,3 @@
 .header h1{
   font-weight: 800; color:black;
 }
-
-.margin-neg-3 {
-  margin-top: -3rem !important;
-}
-
-.bubble-width {
-  width: 95%;
-}
